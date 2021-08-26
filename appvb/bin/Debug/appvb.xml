@@ -1,0 +1,696 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+appvb
+</name>
+</assembly>
+<members>
+<member name="T:appvb.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:appvb.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:appvb.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:appvb.ds">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:appvb.ds.empleadosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.fotos_empleados_camDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.tmp_fotosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.vw_lis_usu_estado_foDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.vw_l_cf_actiDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.listado_empleadosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.vw_fotos_registradasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.tmp_fotos_filtroDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.tmp_fotos1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.tmp_fotos2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.estado_civilDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.cargosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.seccionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.fotos_empDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.vw_cant_fotosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.fotos_selec_empDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.em_foto_perfilDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.rol_usuarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.rolesRestantesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.rolesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.vw_loginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.evento_deteccion_iDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.evento_fechasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.evento_deteccionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.asistenciaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.asis_ima_fechaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.sigposDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.parametrosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.cargos1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.reconocimiento_pDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.vw_reconoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appvb.ds.empleadosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.fotos_empleados_camRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.tmp_fotosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.vw_lis_usu_estado_foRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.vw_l_cf_actiRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.listado_empleadosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.vw_fotos_registradasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.tmp_fotos_filtroRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.tmp_fotos1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.tmp_fotos2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.estado_civilRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.cargosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.seccionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.fotos_empRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.vw_cant_fotosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.fotos_selec_empRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.em_foto_perfilRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.rol_usuarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.rolesRestantesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.rolesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.vw_loginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.evento_deteccion_iRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.evento_fechasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.evento_deteccionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.asistenciaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.asis_ima_fechaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.sigposRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.parametrosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.cargos1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.reconocimiento_pRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.vw_reconoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appvb.ds.empleadosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.fotos_empleados_camRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.tmp_fotosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.vw_lis_usu_estado_foRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.vw_l_cf_actiRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.listado_empleadosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.vw_fotos_registradasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.tmp_fotos_filtroRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.tmp_fotos1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.tmp_fotos2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.estado_civilRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.cargosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.seccionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.fotos_empRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.vw_cant_fotosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.fotos_selec_empRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.em_foto_perfilRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.rol_usuarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.rolesRestantesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.rolesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.vw_loginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.evento_deteccion_iRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.evento_fechasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.evento_deteccionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.asistenciaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.asis_ima_fechaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.sigposRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.parametrosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.cargos1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.reconocimiento_pRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.ds.vw_reconoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.empleadosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.fotos_empleados_camTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.tmp_fotosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.vw_lis_usu_estado_foTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.vw_l_cf_actiTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.listado_empleadosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.vw_fotos_registradasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.tmp_fotos_filtroTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.tmp_fotos1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.tmp_fotos2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.estado_civilTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.cargosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.seccionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.fotos_empTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.vw_cant_fotosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.fotos_selec_empTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.em_foto_perfilTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.rol_usuarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.rolesRestantesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.rolesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.vw_loginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.evento_deteccion_iTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.evento_fechasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.evento_deteccionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.asistenciaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.asis_ima_fechaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.sigposTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.parametrosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.cargos1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.reconocimiento_pTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.vw_reconoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.Act_emp_TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:appvb.dsTableAdapters.TableAdapterManager.UpdateUpdatedRows(appvb.ds,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:appvb.dsTableAdapters.TableAdapterManager.UpdateInsertedRows(appvb.ds,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:appvb.dsTableAdapters.TableAdapterManager.UpdateDeletedRows(appvb.ds,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:appvb.dsTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:appvb.dsTableAdapters.TableAdapterManager.UpdateAll(appvb.ds)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:appvb.dsTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
